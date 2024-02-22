@@ -29,7 +29,7 @@
 ---
 
 <div>
-  <h2>Github Stats and Contact:</h2>
+  <h2>Github Stats:</h2>
   <div>
     <img height="200" weight="200" align="center" alt="Overall status of commits" src="https://github-readme-stats.vercel.app/api?username=Kadekaro&show_icons=true&theme=radical">
     <img src = "https://github.com/Kadekaro/Profile/assets/38010624/e2532a6f-da69-4d9a-ae76-0ff253a9ca75" height="180" width="150" align="right">
