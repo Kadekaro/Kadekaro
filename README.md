@@ -59,3 +59,5 @@
 </div>
 
 ---
+
+![Snake animation](https://github.com/Kadekaro/Kadekaro/blob/output/github-contribution-grid-snake.svg)
