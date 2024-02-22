@@ -59,3 +59,4 @@
 </div>
 
 ---
+ ![Snake animation](https://github.com/Kadekaro/blob/main/snake.svg)
