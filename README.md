@@ -9,17 +9,6 @@
   <p>
     I am from the exact sciences field, and currently, I am looking for a job as a ‘Data Analyst,’ ‘Data Scientist,’ or as a ‘Python Developer.’ I am self-taught, but I have familiarity with programming. I was a programming monitor in college, and in addition to programming and calculus courses, I also have a statistics course. I am highly dedicated, a quick learner, very sociable, and proactive. I am seeking an opportunity in this field that will introduce me to the job market and allow me to learn extensively, as I consider this profession as my career! Currently, I reside in Minas Gerais - Brazil, and am available for remote, hybrid, or in-person employment.
   </p>
-</div>
-
----
-
-<div>
-  <h2>Github Stats and Contact:</h2>
-  <div>
-    <img height="200" weight="200" align="center" alt="Overall status of commits" src="https://github-readme-stats.vercel.app/api?username=Kadekaro&show_icons=true&theme=radical">
-    <img src = "https://github.com/Kadekaro/Profile/assets/38010624/e2532a6f-da69-4d9a-ae76-0ff253a9ca75" height="180" width="150" align="right">
-  </div>
-  <p></p>
   <a href="https://instagram.com/kadekaro">  
     <img align"center" src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
@@ -35,6 +24,17 @@
   <a href="https://github.com/Kadekaro"> 
     <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
   </a>
+</div>
+
+---
+
+<div>
+  <h2>Github Stats and Contact:</h2>
+  <div>
+    <img height="200" weight="200" align="center" alt="Overall status of commits" src="https://github-readme-stats.vercel.app/api?username=Kadekaro&show_icons=true&theme=radical">
+    <img src = "https://github.com/Kadekaro/Profile/assets/38010624/e2532a6f-da69-4d9a-ae76-0ff253a9ca75" height="180" width="150" align="right">
+  </div>
+    <img src = "https://github.com/Kadekaro/Kadekaro/blob/main/snake.svg">
 </div>
 
 ---
@@ -59,7 +59,4 @@
 </div>
 
 ---
-
-![snake gif](https://github.com/Kadekaro/Kadekaro/blob/main/snake.svg)
-
 
