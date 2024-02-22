@@ -30,10 +30,12 @@
 
 <div>
   <h2>Github Stats:</h2>
-  <div>
-    <img height="200" weight="200" align="center" alt="Overall status of commits" src="https://github-readme-stats.vercel.app/api?username=Kadekaro&show_icons=true&theme=radical">
-    <img src = "https://github.com/Kadekaro/Profile/assets/38010624/e2532a6f-da69-4d9a-ae76-0ff253a9ca75" height="180" width="150" align="right">
-  </div>
+   <div align="center" display="inline-block">
+    <a href="https://github.com/Kadekaro">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kadekaro&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadekaro&layout=compact&langs_count=7&theme=react" />
+      <img src = "https://github.com/Kadekaro/Profile/assets/38010624/e2532a6f-da69-4d9a-ae76-0ff253a9ca75" height="180" width="150" align="right">
+</div>
     <img src = "https://github.com/Kadekaro/Kadekaro/blob/main/snake.svg">
 </div>
 
