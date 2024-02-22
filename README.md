@@ -60,6 +60,6 @@
 
 ---
 
-![snake gif](https://github.com/Kadekaro/Kadekaro/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Kadekaro/Kadekaro/blob/main/snake.svg)
 
 
